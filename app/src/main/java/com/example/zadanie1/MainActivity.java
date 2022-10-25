@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private static final String KEY_CURRENT_INDEX = "currentIndex";
-    public static final String KEY_EXTRA_ANSWER = "pl.edu.pl.wi.quiz.correctAnswer";
+    public static final String KEY_EXTRA_ANSWER = "com.example.zadanie1.correctAnswer";
     private static final String QUIZ_TAG = "quizTag";
     private static final int REQUEST_CODE_PROMPT = 1;
 
